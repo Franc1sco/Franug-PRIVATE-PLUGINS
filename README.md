@@ -49,7 +49,17 @@
 
 
 ### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?/pages/
- 
+
+
+# Other services:
+
+* **Coding private plugins on request.**
+* **Modifying existing plugins.**
+* **Fixing broken plugins.**
+* **Help writing your own plugins.**
+* **Maintain and configure servers, databases and machines..**
+
+
 # Contact with me:  
 
 * **Steam**: http://steamcommunity.com/id/franug
