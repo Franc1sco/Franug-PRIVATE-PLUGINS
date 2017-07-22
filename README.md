@@ -1,3 +1,5 @@
+# ALERT: Discounts on summer in all my private plugins! even 40% of discount!
+
 # Here you can found all my private plugins that I sell but first the info for clients (see the plugin list more down)
 
 ### For possible clients:
