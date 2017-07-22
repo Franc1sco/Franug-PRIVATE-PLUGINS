@@ -57,7 +57,7 @@
 * **Modifying existing plugins.**
 * **Fixing broken plugins.**
 * **Help writing your own plugins.**
-* **Maintain and configure servers, databases and machines..**
+* **Maintain and configure servers (any game mode), databases and machines.**
 
 
 # Contact with me:  
