@@ -8,14 +8,6 @@
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
 * You will have sourcecode access.
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
-* **If you want to buy a plugin from me, not comment in my profile that you want buy plugins, because some scammers check my steam profile comments for get victims to scam, since apparently I am the most known sourcemod coder (Demonstrated with the more than +1200 comments from clients in my steam profile and the more than 100 plugins published). Be careful with scammers that try to resell false private plugins without support and with virus. Buy plugins always from the original author.**
-
-
-### Resellers are not allowed.
-
-* Never resell or give a plugin to someone (even for free). The plugin is only for you and your community servers.
-* No upload the sourcecode (.sp file) to your server for prevent that people with FTP access can download and resell the plugin.
-* **:zap::zap::zap:If you have info about a reseller then tell me it with proofs like screenshots and videos and you will have access to the plugins that he have been access (FOR FREE), and he will be removed from access to the plugins. Basically you will take his place for free if you can give me proofs that he is a reseller (or even if he give the plugins for free).:zap::zap::zap:**
 
 
 ### Private plugin list in sale:
