@@ -56,6 +56,7 @@
 
 * **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
+* **Discord**: Franc1sco#7876
 
 **Note: Negociable prices.**
 
