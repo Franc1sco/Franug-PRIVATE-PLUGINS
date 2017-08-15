@@ -40,6 +40,7 @@
 * **Redie redux**: with new features a fixes like give you noclip with the key G (DROP) and fixed bugs like footsteps sounds.
 * **DeathMatch arena for dead people**: A deathmatch arena for dead people for wait when you are dead. Included support for myjailbreak plugin, spawn protection, hud message when join people to the dm arena, multilanguage support, and full support.
 * **Loot spawner with multiple items for the map**: a plugin for get items from the map like Throwing Knives (Throwing Knives plugin without crashes and support included), store credits, and much more (I am listening requests of what items you want!). Screenshot: http://steamcommunity.com/sharedfiles/filedetails/?id=1109489069
+* **Last Request: Throwingknives battle**: Last request using throwingknives. Trail always enabled in the last request. Video: https://www.youtube.com/watch?v=wENmZHhQkRo
 
 
 ### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?/pages/
