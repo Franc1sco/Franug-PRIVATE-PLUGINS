@@ -4,7 +4,7 @@
 
 ### For possible clients:
 
-* Payment via PayPal, steam game (overpay), or steam items like csgo skins (overpay).
+* Payment via PayPal, Bitcoin, steam game (overpay), or steam items like csgo skins (overpay).
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
 * You will have sourcecode access.
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
