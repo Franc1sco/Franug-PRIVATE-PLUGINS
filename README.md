@@ -59,7 +59,7 @@
 
 # Contact with me:  
 
-* **Steam**: http://steamcommunity.com/id/franug (offline in vacations, so if you want to contact with me use Telegram or Discord)
+* **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
 * **Discord**: Franc1sco#7876
 
