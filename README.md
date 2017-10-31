@@ -10,7 +10,7 @@
 
 ### Private plugin list in sale:
 
-**:zap::zap:Note that I don't have the full private plugin list here. If you want to know the full list, then contact with me.:zap::zap:**
+**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list, then contact with me.:zap::zap:**
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 * **Valve Competitive Rank (Stamm version) plugin**: Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
