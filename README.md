@@ -12,6 +12,7 @@
 
 **:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list, then contact with me.:zap::zap:**
 
+* **DM weapons by time**: A gamemode based on DM FFA that change weapons type (pistols, snipers, rifles, SMG, shotguns, etc) every X time. Also included only HS every Y time. Ideal for practice with different weapons type. Test server IP 54.36.4.98:27016
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 * **Valve Competitive Rank (Stamm version) plugin**: Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
 * **Valve Competitive Rank and Coins**: always updated and support for prevent bans in your server.
