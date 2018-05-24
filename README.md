@@ -31,7 +31,7 @@
 * **CCCcolorChanger**: Change your color tag and your color chat with a menu in-game (Easy configuration).
 * **Laser letters**: you can use !write "your msg" for write something in the air.
 * **Plugin multi adverts**: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
-* **EntWatch**: updated with support for more maps, fixes and new features like item name with his cooldown in the scoreboard.
+* **EntWatch**: updated with support for more maps, fixes and new features like item name with his cooldown in the scoreboard, option for add glow to humans with item, option for add glow to dropped items, option for show on top in scoreboard people with a item.
 * **Push grenade**: for zombie escape servers, you can use this grenade for cause a push effect under the grenade explosion.
 * **FreeRun**: You can use this plugin for deathrun servers where the death can use it for allow to CTs to past the map freely.
 * **DeathRun shop**: a shop for deathrun.
