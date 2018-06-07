@@ -10,7 +10,7 @@
 
 ### Private plugin list in sale:
 
-**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+16 extra private plugins not listed here_), then contact with me.:zap::zap:**
+**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+17 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
 * **DM weapons by time**: A gamemode based on DM FFA that change weapons type (pistols, snipers, rifles, SMG, shotguns, etc) every X time. Included only HS every Y time. Also I added VIP support for weapons, dynamic stage configuration (name, duration) and countdown on chat. Ideal for practice with different weapons types.
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
