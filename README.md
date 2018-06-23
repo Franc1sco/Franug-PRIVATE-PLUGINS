@@ -12,6 +12,7 @@
 
 **:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+17 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
+* **Special retakes allocator**: https://steamcommunity.com/sharedfiles/filedetails/?id=1412295191 IP 178.33.167.165:27015
 * **DM weapons by time**: A gamemode based on DM FFA that change weapons type (pistols, snipers, rifles, SMG, shotguns, etc) every X time. Included only HS every Y time. Also I added VIP support for weapons, dynamic stage configuration (name, duration) and countdown on chat. Ideal for practice with different weapons types.
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 * **Valve Competitive Rank (Stamm version) plugin**: Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
