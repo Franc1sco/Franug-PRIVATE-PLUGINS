@@ -10,7 +10,7 @@
 
 ### Private plugin list in sale:
 
-**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+17 extra private plugins not listed here_), then contact with me.:zap::zap:**
+**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+18 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
 * **Soccer Day (with discount during the soccer World Cup!)**: Made for jailbreak server, you can make a soccer day where all the people are teleported to a soccer zone (easily configurable per map), the teams are balanced (1:1), and the first team that make a gol wins. Also the players cant go outside the soccer zone (they are teleported into the zone again if they leave the zone) and they have godmode for prevent die with the ball. You can start a vote with the command !soccer (available only for vips only every X minutes for dont abuse).
 * **Special retakes allocator**: https://steamcommunity.com/sharedfiles/filedetails/?id=1412295191 IP 178.33.167.165:27015
