@@ -12,13 +12,14 @@
 
 **:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+18 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
-* **Lights creator**: with different colors, sizes, saved per map, etc, all easily configurable. Screenshot -> https://steamcommunity.com/sharedfiles/filedetails/?id=1476649178
-* **Soccer Day (with discount during the soccer World Cup!)**: Made for jailbreak server, you can make a soccer day where all the people are teleported to a soccer zone (easily configurable per map), the teams are balanced (1:1), and the first team that make a gol wins. Also the players cant go outside the soccer zone (they are teleported into the zone again if they leave the zone) and they have godmode for prevent die with the ball. You can start a vote with the command !soccer (available only for vips only every X minutes for dont abuse).
+* **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
+* **Store Taunts**: You can buy taunts sounds in the store.
 * **Special retakes allocator**: https://steamcommunity.com/sharedfiles/filedetails/?id=1412295191 IP 178.33.167.165:27015
 * **DM weapons by time**: A gamemode based on DM FFA that change weapons type (pistols, snipers, rifles, SMG, shotguns, etc) every X time. Included only HS every Y time. Also I added VIP support for weapons, dynamic stage configuration (name, duration) and countdown on chat. Ideal for practice with different weapons types.
-* **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 * **Valve Competitive Rank (Stamm version) plugin**: Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
 * **Valve Competitive Rank and Coins**: always updated and support for prevent bans in your server.
+* **Lights creator**: with different colors, sizes, saved per map, etc, all easily configurable. Screenshot -> https://steamcommunity.com/sharedfiles/filedetails/?id=1476649178
+* **Soccer Day (with discount during the soccer World Cup!)**: Made for jailbreak server, you can make a soccer day where all the people are teleported to a soccer zone (easily configurable per map), the teams are balanced (1:1), and the first team that make a gol wins. Also the players cant go outside the soccer zone (they are teleported into the zone again if they leave the zone) and they have godmode for prevent die with the ball. You can start a vote with the command !soccer (available only for vips only every X minutes for dont abuse).
 * **Valve Music kits**: always updated, flag for each music kit and support for prevent bans in your server.
 * **AutoInviter to Steam groups**: Invite players to your steam groups when they join to your server. Multiple group support, 0 lag, full support.
 * **Valve Sprays/graffitis**: Players had access to all Valve Sprays and you can easily add more extra sprays to the server. The Spray selection is saved for each player. Include support for set flag for each spray.
