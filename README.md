@@ -50,7 +50,7 @@
 * **BHOP arena for dead people**: A bhop arena for dead people for wait when you are dead. Included support for myjailbreak plugin, spawn protection, hud message when join people to the bhop arena, multilanguage support, and full support.
 * **Loot spawner with multiple items for the map**: a plugin for get items from the map like Throwing Knives (Throwing Knives plugin without crashes and support included), store credits, and much more (I am listening requests of what items you want!). Screenshot: http://steamcommunity.com/sharedfiles/filedetails/?id=1109489069
 * **Last Request: Throwingknives battle**: Last request using throwingknives. Trail always enabled in the last request. Video: https://www.youtube.com/watch?v=wENmZHhQkRo
-* **Access By Steam Group**: Restric some commands (commands like !ws, !knife, etc because is configurable) only for people that join in your steam group.
+* **Access By Steam Group**: Restric some commands (commands like !ws, !knife, etc because is configurable) only for people that join in your steam group. CS:GO panorama and others games supported.
 
 
 ### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?/pages/
