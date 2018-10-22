@@ -10,9 +10,18 @@
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
+### :jack_o_lantern: Special Halloween plugins :jack_o_lantern:
+
+* **Slendermod**: gamemode where you need to found 8 pages before slenderman catch you. With visual and sounds effect for keep you scared. Screenshots: https://steamcommunity.com/sharedfiles/filedetails/?id=1543986460 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005256 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005134
+* **Scares command**: You can scares people with multiple scare images and sounds. Configurable.
+* **The Darkness**: You can turn off/on the lights on the map with a command or randomly. Configurable.
+* Soon more!
+
+
 ### Private plugin list in sale:
 
 **:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+18 extra private plugins not listed here_), then contact with me.:zap::zap:**
+
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 * **Store Taunts**: You can buy taunts sounds in the store.
