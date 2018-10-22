@@ -66,7 +66,7 @@
 * **Maintain and configure servers (any game mode), databases and machines.**
 
 
-# Contact with me:  
+# Contact with me *(preferably Telegram or Discord)*:  
 
 * **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
