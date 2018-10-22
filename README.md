@@ -2,6 +2,8 @@
 
 ### For possible clients:
 
+* **Buy plugins always from the original author, never buy plugins from resellers, they just want to scam you with false private versions without support or even just getting your money and going away. Many people have reported this fact to me but I can not do anything, so be careful with resellers. Contact with me on telegram or discord is more safe that steam since is totally private and you cant be victim of some reseller/scammer.**
+* If you have info about a reseller then tell me it with proofs like screenshots and videos and you will have a good discounts for my plugins.
 * Payment via PayPal, bank transfer, Bitcoin, steam game (overpay), or steam items like csgo skins (overpay).
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
 * You will have sourcecode access.
