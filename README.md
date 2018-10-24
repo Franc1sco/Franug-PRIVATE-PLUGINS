@@ -29,7 +29,7 @@
 
 ### Private plugin list in sale:
 
-**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+18 extra private plugins not listed here_), then contact with me.:zap::zap:**
+**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+20 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
