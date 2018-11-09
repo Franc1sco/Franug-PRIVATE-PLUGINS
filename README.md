@@ -9,6 +9,18 @@
 
 # Here you can found all my private plugins that I sell but first the info for clients (see the plugin list more down)
 
+
+### Info about me:
+
+* **Age**: 26 years old (27/05/1992).
+* **Profession**: Computer science student oriented to multi platform programming (in my last year) and computer engineer.
+* **Experience**: 8 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
+* **Other interesting information**: 
+* I helped to a lot people and I have published +100 plugins so I am one of the most active and known sourcemod coders.
+* I am the first on make a weapons paints plugin so I am the creator of the famous command "!ws".
+* I have had more of 300 different clients, even I cooperated with some famous youtubers (specially in Spain) like Zorman, Nate gentile, BlackEspanolito, and others.
+
+
 ### For possible clients:
 
 * **Buy plugins always from the original author, never buy plugins from resellers, they just want to scam you with false private versions without support or even just getting your money and going away. Many people have reported this fact to me but I can not do anything, so be careful with resellers. Contact with me on telegram or discord is more safe that steam since is totally private and you cant be victim of some reseller/scammer.**
