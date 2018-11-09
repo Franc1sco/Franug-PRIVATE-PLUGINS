@@ -1,5 +1,6 @@
 # Index
 
+- [Info about me](#info-about-me)
 - [For possible clients](#for-possible-clients)
 - [Halloween plugins](#jack_o_lantern-special-halloween-plugins-jack_o_lantern)
 - [Private plugin list in sale](#private-plugin-list-in-sale)
