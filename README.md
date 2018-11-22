@@ -32,12 +32,20 @@
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
-### :jack_o_lantern: Special Halloween plugins :jack_o_lantern:
+### Pre-configured servers in sell (the best configuration with my 8 years of experience making game servers)
 
-* **Slendermod**: gamemode where you need to found 8 pages before slenderman catch you. With visual and sounds effect for keep you scared. Screenshots: https://steamcommunity.com/sharedfiles/filedetails/?id=1543986460 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005256 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005134
-* **Scares command**: You can scares people with multiple scare images and sounds. Configurable.
-* **The Darkness**: You can turn off/on the lights on the map with a command or randomly. Configurable.
-* Soon more!
+* **Full Addons Zombie Escape**
+* **Full Addons Jailbreak server**
+* **Full Addons Surf combat server**
+* **Full Addons Surf Skill server**
+* **Full Addons BunnyHop server**
+* **Full Addons Multi 1v1 server**
+* **Full Addons Battle Royal server**
+* **Full Addons Hunger Games server**
+* **Full Addons MultiMap server**
+* **Full Addons FunMaps (MultiMod) server**
+* **Full Addons ONLY AWP + DM server**
+* *Note: If the server setup that you want dont appear here, you can request me it and I will do it.*
 
 
 ### Private plugin list in sale:
@@ -80,6 +88,9 @@
 * **Loot spawner with multiple items for the map**: a plugin for get items from the map like Throwing Knives (Throwing Knives plugin without crashes and support included), store credits, and much more (I am listening requests of what items you want!). Screenshot: http://steamcommunity.com/sharedfiles/filedetails/?id=1109489069
 * **Last Request: Throwingknives battle**: Last request using throwingknives. Trail always enabled in the last request. Video: https://www.youtube.com/watch?v=wENmZHhQkRo
 * **Access By Steam Group**: Restric some commands (commands like !ws, !knife, etc because is configurable) only for people that join in your steam group. CS:GO panorama and others games supported.
+* **Slendermod**: gamemode where you need to found 8 pages before slenderman catch you. With visual and sounds effect for keep you scared. Screenshots: https://steamcommunity.com/sharedfiles/filedetails/?id=1543986460 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005256 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005134
+* **Scares command**: You can scares people with multiple scare images and sounds. Configurable.
+* **The Darkness**: You can turn off/on the lights on the map with a command or randomly. Configurable.
 
 
 ### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?/pages/
