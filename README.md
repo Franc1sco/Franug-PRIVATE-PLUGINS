@@ -2,7 +2,7 @@
 
 - [Info about me](#info-about-me)
 - [For possible clients](#for-possible-clients)
-- [Halloween plugins](#jack_o_lantern-special-halloween-plugins-jack_o_lantern)
+- [Pre configured servers in sell](#pre-configured-servers-in-sell-the-best-configuration-with-my-8-years-of-experience-making-game-servers)
 - [Private plugin list in sale](#private-plugin-list-in-sale)
 - [Other services](#other-services)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
