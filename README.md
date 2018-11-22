@@ -34,17 +34,17 @@
 
 ### Pre-configured servers in sell (the best configuration with my 8 years of experience making game servers)
 
-* **Full Addons Zombie Escape**
-* **Full Addons Jailbreak server**
-* **Full Addons Surf combat server**
-* **Full Addons Surf Skill server**
-* **Full Addons BunnyHop server**
-* **Full Addons Multi 1v1 server**
-* **Full Addons Battle Royal server**
-* **Full Addons Hunger Games server**
-* **Full Addons MultiMap server**
-* **Full Addons FunMaps (MultiMod) server**
-* **Full Addons ONLY AWP + DM server**
+* **Full Zombie Escape server**
+* **Full Jailbreak server**
+* **Full Surf combat server**
+* **Full Surf Skill server**
+* **Full BunnyHop server**
+* **Full Multi 1v1 server**
+* **Full Battle Royal server**
+* **Full Hunger Games server**
+* **Full MultiMap server**
+* **Full FunMaps (MultiMod) server**
+* **Full ONLY AWP + DM server**
 * *Note: If the server setup that you want dont appear here, you can request me it and I will do it.*
 
 
