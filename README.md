@@ -93,7 +93,7 @@
 * **The Darkness**: You can turn off/on the lights on the map with a command or randomly. Configurable.
 
 
-### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?/pages/
+### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?pages/servers/
 
 
 # Other services:
