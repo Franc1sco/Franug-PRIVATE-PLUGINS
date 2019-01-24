@@ -2,8 +2,8 @@
 
 - [Info about me](#info-about-me)
 - [For possible clients](#for-possible-clients)
-- [Pre configured servers in sell](#pre-configured-servers-in-sell-the-best-configuration-with-my-8-years-of-experience-making-game-servers)
-- [Private plugin list in sale](#private-plugin-list-in-sale)
+- [Pre configured servers for sale](#pre-configured-servers-for-sell-the-best-configuration-with-my-8-years-of-experience-making-game-servers)
+- [Private plugin list for sale](#private-plugin-list-for-sale)
 - [Other services](#other-services)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
 
@@ -32,7 +32,7 @@
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
-### Pre-configured servers in sell (the best configuration with my 8 years of experience making game servers)
+### Pre-configured servers for sell (the best configuration with my 8 years of experience making game servers)
 
 * **Full Zombie Escape server**
 * **Full Jailbreak server**
@@ -48,7 +48,7 @@
 * *Note: If the server setup that you want dont appear here, you can request me it and I will do it.*
 
 
-### Private plugin list in sale:
+### Private plugin list for sale:
 
 **:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+20 extra private plugins not listed here_), then contact with me.:zap::zap:**
 
