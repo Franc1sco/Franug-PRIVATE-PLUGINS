@@ -1,3 +1,6 @@
+# NOTICE: I dont have time for sourcemod stuff until the end of this month when i finish the final exams. So this friday i will back.
+
+
 # Index
 
 - [Info about me](#info-about-me)
