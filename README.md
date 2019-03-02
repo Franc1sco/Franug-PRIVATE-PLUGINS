@@ -35,6 +35,7 @@
 ### Pre-configured servers for sale (the best configuration with my 8 years of experience making game servers)
 
 * **Full Zombie Escape server**
+* **Full executes server**
 * **Full Jailbreak server**
 * **Full Surf combat server**
 * **Full Surf Skill server**
