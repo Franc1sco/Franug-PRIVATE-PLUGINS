@@ -53,6 +53,7 @@
 
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
+* **Special Thanos Round**: A round where a random player is Thanos with special skills against everyelse -> https://steamcommunity.com/sharedfiles/filedetails/?id=1725631011
 * **Store Taunts**: You can buy taunts sounds in the store.
 * **Special retakes allocator**: https://steamcommunity.com/sharedfiles/filedetails/?id=1412295191 IP 178.33.167.165:27015
 * **DM weapons by time**: A gamemode based on DM FFA that change weapons type (pistols, snipers, rifles, SMG, shotguns, etc) every X time. Included only HS every Y time. Also I added VIP support for weapons, dynamic stage configuration (name, duration) and countdown on chat. Ideal for practice with different weapons types.
