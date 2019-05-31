@@ -111,4 +111,7 @@
 * **Telegram**: https://t.me/Franc1sco
 * **Discord**: Franc1sco#7876
 
+## Activity public channel to be updated about all my activity on public or private plugins, servers, absences, available time and more -> https://t.me/franug
+
+
 **Note: Negociable prices.**
