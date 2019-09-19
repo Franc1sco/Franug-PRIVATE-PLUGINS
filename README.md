@@ -13,13 +13,14 @@
 
 ### Info about me:
 
-* **Age**: 26 years old (27/05/1992).
-* **Profession**: Computer science student oriented to multi platform programming (in my last year) and computer engineer.
-* **Experience**: 8 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
+* **Age**: 27 years old (27/05/1992).
+* **Profession**: Apps Developer in a big enterprise.
+* **Experience**: 9 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
 * **Other interesting information**: 
 * I helped to a lot people and I have published +100 plugins so I am one of the most active and known sourcemod coders.
 * I am the first on make a weapons paints plugin so I am the creator of the famous command "!ws".
 * I have had more of 300 different clients, even I cooperated with some famous youtubers (specially in Spain) like Zorman, Nate gentile, BlackEspanolito, and others.
+* I am a proffesional and real developer, I work in a big enterprise as developer.
 
 
 ### For possible clients:
