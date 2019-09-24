@@ -1,4 +1,4 @@
-# IMPORTANT ANNOUNCE: I dont take more paid request and I dont sell more plugins. All will be free and after now I will work on sourcemod projects just for fun and for free and not like a job. More info here: https://steamcommunity.com/groups/franug/discussions/1/1627412171717808046/
+# IMPORTANT ANNOUNCE: I dont take more paid requests and I dont sell more plugins. All will be free and after now I will work on sourcemod projects just for fun and for free and not like a job. More info here: https://steamcommunity.com/groups/franug/discussions/1/1627412171717808046/
 
 
 # Index
