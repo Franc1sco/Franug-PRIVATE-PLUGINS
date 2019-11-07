@@ -1,3 +1,5 @@
+# I am available for participate on communities for free, Check this -> https://github.com/Franc1sco/Franug-Communities
+
 # IMPORTANT ANNOUNCE: I dont take more paid requests and I dont sell more plugins. All will be free and after now I will work on sourcemod projects just for fun and for free and not like a job. More info here: https://steamcommunity.com/groups/franug/discussions/1/1627412171717808046/
 
 
