@@ -36,7 +36,7 @@
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
-### Pre-configured servers for sale (the best configuration with my 8 years of experience making game servers)
+### Pre-configured servers for sale (the best configuration with my 10 years of experience making game servers)
 
 * **Full Zombie Escape server**
 * **Full executes server**
