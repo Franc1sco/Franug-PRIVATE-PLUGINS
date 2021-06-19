@@ -18,9 +18,9 @@
 
 ### Info about me:
 
-* **Age**: 27 years old (27/05/1992).
+* **Age**: 29 years old (27/05/1992).
 * **Profession**: Apps Developer in a big enterprise.
-* **Experience**: 9 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
+* **Experience**: 11 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
 * **Other interesting information**: 
 * I helped to a lot people and I have published +100 plugins so I am one of the most active and known sourcemod coders.
 * I am the first on make a weapons paints plugin so I am the creator of the famous command "!ws".
@@ -97,9 +97,6 @@
 * **Slendermod**: gamemode where you need to found 8 pages before slenderman catch you. With visual and sounds effect for keep you scared. Screenshots: https://steamcommunity.com/sharedfiles/filedetails/?id=1543986460 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005256 https://steamcommunity.com/sharedfiles/filedetails/?id=1537005134
 * **Scares command**: You can scares people with multiple scare images and sounds. Configurable.
 * **The Darkness**: You can turn off/on the lights on the map with a command or randomly. Configurable.
-
-
-### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?pages/servers/
 
 
 # Other services:
