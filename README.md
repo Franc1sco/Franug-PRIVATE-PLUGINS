@@ -7,7 +7,7 @@
 
 - [Info about me](#info-about-me)
 - [For possible clients](#for-possible-clients)
-- [Pre configured servers for sale](#pre-configured-servers-for-sale-the-best-configuration-with-my-8-years-of-experience-making-game-servers)
+- [Pre configured servers for sale](#pre-configured-servers-for-sale-the-best-configuration-with-my-10-years-of-experience-making-game-servers)
 - [Private plugin list for sale](#private-plugin-list-for-sale)
 - [Other services](#other-services)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
@@ -18,7 +18,7 @@
 
 ### Info about me:
 
-* **Age**: 29 years old (27/05/1992).
+* **Age**: 30 years old (27/05/1992).
 * **Profession**: Apps Developer in a big enterprise.
 * **Experience**: 11 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
 * **Other interesting information**: 
@@ -36,7 +36,7 @@
 * You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
-### Pre-configured servers for sale (the best configuration with my 10 years of experience making game servers)
+### Pre-configured servers for sale (the best configuration with my +10 years of experience making game servers)
 
 * **Full Zombie Escape server**
 * **Full executes server**
