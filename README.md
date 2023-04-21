@@ -38,6 +38,9 @@
 
 ### Pre-configured servers for sale (the best configuration with my +10 years of experience making game servers)
 
+**:zap::zap:Note: full support included for help on installation, provide updates and do some changes by request without additional cost. And if the server setup that you want dont appear here, you can request me it and I will do it.:zap::zap:**
+
+
 * **Full Zombie Escape server**
 * **Full executes server**
 * **Full Jailbreak server**
@@ -50,12 +53,11 @@
 * **Full MultiMap server**
 * **Full FunMaps (MultiMod) server**
 * **Full ONLY AWP + DM server**
-* *Note: If the server setup that you want dont appear here, you can request me it and I will do it.*
 
 
 ### Private plugin list for sale:
 
-**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+25 extra private plugins not listed here_), then contact with me.:zap::zap:**
+**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+25 extra private plugins not listed here_), then contact with me.Also full support included for help on installation, provide updates and do some changes by request without additional cost.:zap::zap:**
 
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
