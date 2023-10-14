@@ -1,13 +1,10 @@
-# Since some people requested me paid jobs and private stuff but they dont have the chance to have me on his community (read a line below) I am accepting again some paid jobs and selling some stuff. I have a real dev job and really I dont need more money like before so I am not accepting all, but you are free to contact with me for see it.
-
 # I am available for participate on communities for free, Check this -> https://github.com/Franc1sco/Franug-Communities
-
 
 # Index
 
 - [Info about me](#info-about-me)
 - [For possible clients](#for-possible-clients)
-- [Pre configured servers for sale](#pre-configured-servers-for-sale-the-best-configuration-with-my-10-years-of-experience-making-game-servers)
+- [Pre configured servers for sale](#pre-configured-servers-for-sale-the-best-configuration-with-my-11-years-of-experience-making-game-servers-for-the-old-csgo-css-and-i-am-porting-it-to-cs2-too)
 - [Private plugin list for sale](#private-plugin-list-for-sale)
 - [Other services](#other-services)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
@@ -18,9 +15,9 @@
 
 ### Info about me:
 
-* **Age**: 30 years old (27/05/1992).
+* **Age**: 27/05/1992
 * **Profession**: Apps Developer in a big enterprise.
-* **Experience**: 11 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
+* **Experience**: +11 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
 * **Other interesting information**: 
 * I helped to a lot people and I have published +100 plugins so I am one of the most active and known sourcemod coders.
 * I am the first on make a weapons paints plugin so I am the creator of the famous command "!ws".
@@ -33,10 +30,10 @@
 * Payment via PayPal, Skrill, bank transfer, Bitcoin, steam game (overpay), or steam items like csgo skins (overpay).
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
 * You will have sourcecode access.
-* You will need a account in https://gitlab.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
+* You will need a account in https://github.com (register is free) for access to the private repositories where you will have access to updates, support (including others clients with that plugin) and more.
 
 
-### Pre-configured servers for sale (the best configuration with my +10 years of experience making game servers)
+### Pre-configured servers for sale (the best configuration with my +11 years of experience making game servers) for the old CS:GO, CS:S and i am porting it to CS2 too.
 
 **:zap::zap:Note: full support included for help on installation, provide updates and do some changes by request without additional cost. And if the server setup that you want dont appear here, you can request me it and I will do it.:zap::zap:**
 
@@ -57,7 +54,9 @@
 
 ### Private plugin list for sale:
 
-**:zap::zap:Note: I don't have the full private plugin list here. If you want to know the full list (_+25 extra private plugins not listed here_), then contact with me.Also full support included for help on installation, provide updates and do some changes by request without additional cost.:zap::zap:**
+**:zap::zap:Note: It worked on the old CS:GO and some plugins works on CS:S too, I have a list for CS2 too, ask me for info.:zap::zap:**
+
+**:zap::zap:Note2: I don't have the full private plugin list here. If you want to know the full list (_+25 extra private plugins not listed here_), then contact with me.Also full support included for help on installation, provide updates and do some changes by request without additional cost.:zap::zap:**
 
 
 * **Valve items menu**: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
@@ -113,7 +112,7 @@
 
 * **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
-* **Discord**: Franc1sco#7876
+* **Discord**: franug
 
 ## Activity public channel to be updated about all my activity on public or private plugins, servers, absences, available time and more -> https://t.me/franug
 
