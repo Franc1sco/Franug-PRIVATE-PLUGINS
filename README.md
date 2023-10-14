@@ -17,7 +17,7 @@
 
 * **Age**: 27/05/1992
 * **Profession**: Apps Developer in a big enterprise.
-* **Experience**: +11 years managing and developing game servers especially in Counter Strike Source and Counter Strike Global Offensive.
+* **Experience**: +11 years managing and developing game servers especially in Counter Strike Source, Counter Strike Global Offensive and now on Counter Strike 2.
 * **Other interesting information**: 
 * I helped to a lot people and I have published +100 plugins so I am one of the most active and known sourcemod coders.
 * I am the first on make a weapons paints plugin so I am the creator of the famous command "!ws".
